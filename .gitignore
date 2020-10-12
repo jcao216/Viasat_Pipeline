@@ -1,0 +1,4 @@
+# Ignore kafka directory
+kafka_2.13-2.6.0/
+5000_transactions.csv
+kafka_2.13-2.6.0.tgz
